@@ -64,6 +64,42 @@ const mockProjectIdeas: ProjectIdea[] = [
       'Compare results with safety standards',
       'Create recommendations and final report'
     ]
+  },
+  {
+    id: '4',
+    title: 'Smart Home Automation System',
+    subject: 'Computer Science',
+    difficulty: 'Hard',
+    duration: '4-5 weeks',
+    description: 'Build an IoT-based smart home automation system using sensors, microcontrollers, and mobile app integration.',
+    materials: ['Raspberry Pi', 'Arduino sensors', 'Relay modules', 'WiFi module', 'Mobile development tools', 'Breadboard', 'Jumper wires'],
+    steps: [
+      'Design system architecture and component layout',
+      'Set up Raspberry Pi and install required software',
+      'Connect and program sensors (temperature, motion, light)',
+      'Implement relay controls for appliances',
+      'Develop mobile app for remote control',
+      'Test system integration and troubleshoot issues',
+      'Create user manual and project documentation'
+    ]
+  },
+  {
+    id: '5',
+    title: 'Ecosystem Food Web Analysis',
+    subject: 'Biology',
+    difficulty: 'Medium',
+    duration: '2-3 weeks',
+    description: 'Study and create a detailed food web model of a local ecosystem, analyzing energy flow and species relationships.',
+    materials: ['Field notebook', 'Camera', 'Identification guides', 'Measuring tools', 'Graph paper', 'Research materials'],
+    steps: [
+      'Select and survey a local ecosystem area',
+      'Identify and catalog plant and animal species',
+      'Research feeding habits and relationships',
+      'Map energy flow and trophic levels',
+      'Create visual food web diagram',
+      'Analyze ecosystem balance and human impact',
+      'Present findings with recommendations'
+    ]
   }
 ];
 
